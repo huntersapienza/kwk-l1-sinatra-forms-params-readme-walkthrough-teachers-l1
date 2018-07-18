@@ -6,4 +6,6 @@ def get_animal (animal, hat)
       animal_img = ""
     elsif hat == "top"
       animal_img = ""
+    elsif hat == "bucket"
+      animal_img = ""
   elsif animal == "cat"
