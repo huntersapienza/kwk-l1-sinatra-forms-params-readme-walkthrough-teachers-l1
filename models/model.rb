@@ -1,9 +1,8 @@
 #this is where our ruby goes
 def get_animal (animal, hat)
   if animal == "dog"
-      animal_img = ""
     if hat == "party"
-      animal_img = ""
+      animal_img = "https://burst.shopifycdn.com/photos/dog-in-party-hat_925x.jpg"
     elsif hat == "top"
       animal_img = ""
     elsif hat == "bucket"
