@@ -13,7 +13,7 @@ def get_animal (animal, hat)
     if hat == "party"
       animal_img = "http://cutecatsinhats.com/wp-content/uploads/2016/01/lil-bub-party-hat.jpg"
     elsif hat == "top"
-      animal_img = ""
+      animal_img = "http://cutecatsinhats.com/wp-content/uploads/2016/03/top-hat-kitten.jpg"
     elsif hat == "bucket"
       animal_img = "https://sharesloth.com/wp-content/uploads/2014/03/cats-in-hats-large-msg-138687296223.jpg"
     end 
