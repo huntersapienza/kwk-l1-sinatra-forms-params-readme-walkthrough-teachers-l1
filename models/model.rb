@@ -4,9 +4,9 @@ def get_animal (animal, hat)
     if hat == "party"
       animal_img = "https://burst.shopifycdn.com/photos/dog-in-party-hat_925x.jpg"
     elsif hat == "top"
-      animal_img = "https://img00.deviantart.net/069a/i/2012/053/0/f/tiny_top_hat_for_dogs__red_plaid_gentleman_by_tinytophats-d4qmqnj.jpg"
+      animal_img = "https://img00.deviantart.net/069a/i/2012/053/0/f/tiny_top_hat_for_dogs__red_plaid_gentleman_by_tinytophats-d4qmqnj.jpght"
     elsif hat == "bucket"
-      animal_img = "https://img00.deviantart.net/069a/i/2012/053/0/f/tiny_top_hat_for_dogs__red_plaid_gentleman_by_tinytophats-d4qmqnj.jpg"
+      animal_img = "tps://img00.deviantart.net/069a/i/2012/053/0/f/tiny_top_hat_for_dogs__red_plaid_gentleman_by_tinytophats-d4qmqnj.jpg"
     end
   elsif animal == "cat"
     if hat == "party"
