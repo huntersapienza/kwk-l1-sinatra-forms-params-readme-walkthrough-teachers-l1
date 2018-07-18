@@ -20,5 +20,5 @@ def get_animal (animal, hat)
   return animal_img
 end
 
-puts get_animal("cat", "party")
+puts get_animal("dog", "bucket")
   
