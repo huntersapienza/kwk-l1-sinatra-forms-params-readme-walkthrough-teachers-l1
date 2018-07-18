@@ -11,7 +11,7 @@ def get_animal (animal, hat)
   end
   elsif animal == "cat"
     if hat == "party"
-      animal_img = ""
+      animal_img = "http://cutecatsinhats.com/wp-content/uploads/2016/01/lil-bub-party-hat.jpg"
     elsif hat == "top"
       animal_img = ""
     elsif hat == "bucket"
