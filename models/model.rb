@@ -11,7 +11,7 @@ def get_animal (animal, hat)
   end
   elsif animal == "cat"
     if hat == "party"
-      animal_img = ""
+      animal_img = "https://sharesloth.com/wp-content/uploads/2014/03/cats-in-hats-large-msg-138687296223.jpg"
     elsif hat == "top"
       animal_img = ""
     elsif hat == "bucket"
