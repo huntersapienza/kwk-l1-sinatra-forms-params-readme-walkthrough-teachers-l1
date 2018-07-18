@@ -8,7 +8,9 @@ class App < Sinatra::Base
 
   # Add your post route and action below
   post '/' do
-    
+    #anyName = assigned in index
+    animal_choice = params[user_animal]
+    #params is index name
   end
 
 end
