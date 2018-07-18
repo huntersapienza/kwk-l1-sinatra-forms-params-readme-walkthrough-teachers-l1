@@ -6,7 +6,7 @@ def get_animal (animal, hat)
     elsif hat == "top"
       animal_img = "https://img00.deviantart.net/069a/i/2012/053/0/f/tiny_top_hat_for_dogs__red_plaid_gentleman_by_tinytophats-d4qmqnj.jpght"
     elsif hat == "bucket"
-      animal_img = "tps://img00.deviantart.net/069a/i/2012/053/0/f/tiny_top_hat_for_dogs__red_plaid_gentleman_by_tinytophats-d4qmqnj.jpg"
+      animal_img = "https://i.pinimg.com/originals/b7/e2/40/b7e24003f4140a13495ff7b51558b5fe.jpg"
     end
   elsif animal == "cat"
     if hat == "party"
