@@ -12,7 +12,7 @@ class App < Sinatra::Base
     animal_choice = params[:user_animal]
     #params is input name
     hat_choice = params[:user_hat]
-    @animal_pic = 
+    @animal_pic = get_animal(animal_choice, hat_choice)
   end
 
 end
