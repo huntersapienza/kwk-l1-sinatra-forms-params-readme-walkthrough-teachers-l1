@@ -12,6 +12,7 @@ class App < Sinatra::Base
     animal_choice = params[:user_animal]
     #params is input name
     hat_choice = params[:user_hat]
+    @animal_pic = 
   end
 
 end
