@@ -20,4 +20,6 @@ def get_animal (animal, hat)
   end 
   return animal_img
 end
+
+get_animal("cat", "party")
   
