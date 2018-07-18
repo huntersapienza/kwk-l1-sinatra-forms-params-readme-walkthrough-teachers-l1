@@ -18,5 +18,6 @@ def get_animal (animal, hat)
       animal_img = "https://sharesloth.com/wp-content/uploads/2014/03/cats-in-hats-large-msg-138687296223.jpg"
     end 
   end 
+  return animal_img
 end
   
